@@ -12,7 +12,7 @@ It is intentionally small so you can read all of it in one sitting and extend
 it during the course.
 
 ## 1. Prerequisites
-
+TEST
 - **Python 3.11 or newer.** Check with `python --version` (on macOS/Linux you
   may need `python3 --version`). Download from <https://www.python.org/downloads/>
   if needed. On Windows, tick "Add python.exe to PATH" in the installer.
