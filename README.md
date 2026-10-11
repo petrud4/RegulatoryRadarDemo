@@ -1,4 +1,4 @@
-# Regulatory Radar
+# Regulatory Radar - Acme MedTech
 
 A small web service for a Regulatory Affairs team. It answers two questions:
 
