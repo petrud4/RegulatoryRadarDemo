@@ -14,7 +14,7 @@ from app.models import Clearance, Product, Recall, Update
 app = FastAPI(
     title="Regulatory Radar",
     description="What is happening in the regulatory world, and what does it mean for our products?",
-    version="0.1.0",
+    version="1.1.0",
 )
 
 
